@@ -35,6 +35,10 @@ class User implements Models {
   public function remove() {
 
   }
-
   // si no defino estos metodos me da error.
+
+  public function can() {
+
+  }
+  // se pueden definir otros metodos que no esten en las interfaces.
 }
