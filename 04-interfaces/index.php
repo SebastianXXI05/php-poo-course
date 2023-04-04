@@ -2,6 +2,8 @@
 /* 
 Una interfaz define las estructura que una clase debe tener, es decir los metodos que
 tiene que tener la clase. La implementación de estos metodos no son concretas.
+
+Las interfaces solo pueden usar metodos publicos.
 */
 
 interface Db {
