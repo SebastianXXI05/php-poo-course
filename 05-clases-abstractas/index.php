@@ -1,6 +1,9 @@
 <?php 
 /*
-Una clase abstracta es una clase que no puede ser instanciada directamente, sino que debe ser heredada por otras clases. Las clases abstractas se utilizan para definir un comportamiento común que deben implementar las clases hijas, pero que no puede ser completamente definido en la clase abstracta.
+Una clase abstracta es una clase que no puede ser instanciada directamente, 
+sino que debe ser heredada por otras clases. Las clases abstractas se utilizan para definir un 
+comportamiento común que deben implementar las clases hijas, pero que no puede ser 
+completamente definido en la clase abstracta.
  */
 
 abstract class ClaseAbstracta {
