@@ -3,9 +3,6 @@
 Static se usa para declarar metodos y propiedades que son propias de la
 clase y no de una instancia en particular.
 
-Los metodos estaticos no pueden usar propiedades o metodos que no sean
-estaticos y viceversa.
-
 Las propiedades estaticas pueden recordar su valor.
 
 usamos parent::metodo(), para usar un metodo estatico que fue heredado desde
